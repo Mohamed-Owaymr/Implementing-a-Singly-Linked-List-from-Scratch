@@ -97,7 +97,4 @@ list.print();
 ## 🎉 Conclusion  
 Building a linked list from scratch was a **fun and educational journey**! It helped me strengthen my C++ skills and better understand how lists work **under the hood**.  
 
----
-
-![Fun Coding GIF](https://media.giphy.com/media/3o7aCVppL2OD2rE4vG/giphy.gif)
 
